@@ -1,0 +1,5 @@
+a=int(input("a sonni kiriting: "))
+b=int(input("b sonini kiriting: "))
+print("Ularning yig'indisi", a+b)
+print("Ularning ko'paytmasi", a*b)
+print("Ularning kvadrati ", a*a,b*b)
